@@ -1,5 +1,7 @@
 import "./App.css";
 import WelcomePopup from "./components/WelcomePopup";
+import AboutUs from "./components/AboutUs";
+import { Route, Routes, Link } from "react-router-dom";
 
 function App() {
   return (
