@@ -1,1 +1,1 @@
-# Getting Started with Hackathron
+# Getting Started with Hackathon
